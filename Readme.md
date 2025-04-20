@@ -89,7 +89,6 @@ Aşağıdaki modeller kullanılarak oluşturulan `submission_*.csv` dosyaları K
 ## 📌 Notlar
 
 Bu proje eğitim amaçlıdır ve klasikleşmiş bir Kaggle problemi olan Titanic veri seti üzerinden temel makine öğrenmesi süreçlerini uygulama fırsatı sunar.
-
-yagramı veya örnek çıktı da ekleyebilirim. Geri bildirim verirsen ona göre özelleştiririm.
+BTK Akademi Yapay Zeka ve Derin Öğrenme Atolyesinde Datathonda geliştirilmiştir.
 
 ---
